@@ -1,20 +1,16 @@
-console.log("Trabalhando com atribuição de variáveis");
 
-const primeiroNome = "Ricardo";
-const sobrenome = "Bugan";
+//O meu codigo ficou assim se ereparar muidei direto para o ingles e tambem a const na linha 14 esta meio diferente!!!!
+console.log("trabalhando com atribuição de Variaveis");
+const age = 29;
+const  FirstName = "Ricardo";
+const secondName = "Bugan";
 
-//console.log(nome + " " + sobrenome)
-console.log(primeiroNome, sobrenome);
-console.log(`Meu nome é ${primeiroNome} ${sobrenome}`);
+//console.log(Name + " "  +   secondName);
+console.log(FirstName, secondName);
+console.log(`My name is ${FirstName} ${secondName}`);
 
 let contador = 0;
-contador = contador +1;
-
-const nomeCompleto = primeiroNome + sobrenome;
-console.log(nomeCompleto);
-
-let idade; //declarando variável
-idade = 26; //atribuindo valor
-idade = idade+1;
-console.log(idade);
-
+contador = contador +1 
+const RicardoBugan = "Ricardo Bugan";
+console.log(RicardoBugan);
+allName =2
